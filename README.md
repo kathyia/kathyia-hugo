@@ -14,7 +14,7 @@ In your service's server-side `i18n.json` file, make sure to add `npm-hudl-payme
     ],
     "base-language": {
       "someKey": "someTranslation",
-      "anotherKey": "anotherTranslation"
+      "anotherKey": "anotherTranslation",
       "anotherKey": "anotherTranslation"
     }
   }
