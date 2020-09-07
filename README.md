@@ -9,12 +9,12 @@ In your service's server-side `i18n.json` file, make sure to add `npm-hudl-payme
   "your-service": {
     "keys": [
       "someKey",
-      "...",
+      "anotherKey",
       "anotherKey",
     ],
     "base-language": {
       "someKey": "someTranslation",
-      "...",
+      "anotherKey": "anotherTranslation"
       "anotherKey": "anotherTranslation"
     }
   }
